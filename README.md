@@ -115,55 +115,62 @@ in Non–Commutative Gauge Theories</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(60).pdf" style="text-decoration:none;">Gauge Symmetry and Localized Gravity in M Theory </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(61).pdf" style="text-decoration:none;">Enhanced Rotational Invariant Convolutional Neural Network for Supernovae Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(61).pdf" style="text-decoration:none;">Bosonic M Theory</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(62).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(62).pdf" style="text-decoration:none;">The Quantum Hall Fluid and
+Non–Commutative Chern Simons Theory</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(63).pdf" style="text-decoration:none;">Analyzing Inverse Problems with Invertible Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(63).pdf" style="text-decoration:none;">String Theory and Quintessence</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(64).pdf" style="text-decoration:none;">Single-pulse classifier for the LOFAR Tied-Array All-sky Survey</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(64).pdf" style="text-decoration:none;">Realizing the Quantum Hall System in String Theory</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(65).pdf" style="text-decoration:none;">Machine Learning Classification of Gaia Data Release 2 </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(65).pdf" style="text-decoration:none;">A Two Fluid Description of the Quantum Hall Soliton</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(66).pdf" style="text-decoration:none;">Searching for Sub-Second Stellar Variability with Wide-Field Star Trails and Deep Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(66).pdf" style="text-decoration:none;">String Theory and
+the Size of Hadrons</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(67).pdf" style="text-decoration:none;">Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(67).pdf" style="text-decoration:none;">Is There Really
+a de Sitter/CFT Duality</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(68).pdf" style="text-decoration:none;">Protostellar classification using supervised machine learning algorithms</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(68).pdf" style="text-decoration:none;">Twenty Years of Debate
+with Stephen</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(69).pdf" style="text-decoration:none;">Detecting Radio Frequency Interference in radio-antenna arrays with the Recurrent Neural Network algorithm</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(69).pdf" style="text-decoration:none;">Disturbing Implications of a Cosmological Constant</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(70).pdf" style="text-decoration:none;">QuasarNET: Human-level spectral classification and redshifting with Deep Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(70).pdf" style="text-decoration:none;">Initial conditions for inflation</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(71).pdf" style="text-decoration:none;">Stellar Cluster Detection using GMM with Deep Variational Autoencoder</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(71).pdf" style="text-decoration:none;">The Trouble with
+De Sitter Space</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(72).pdf" style="text-decoration:none;">Galaxy detection and identification using deep learning and data augmentation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(72).pdf" style="text-decoration:none;">The Anthropic Landscape
+of String Theory</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(73).pdf" style="text-decoration:none;">Towards online triggering for the radio detection of air showers using deep neural networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(74).pdf" style="text-decoration:none;">From FATS to feets: Further improvements to an astronomical feature extraction tool based on machine learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(75).pdf" style="text-decoration:none;">Deep Learning Based Detection of Cosmological Diffuse Radio Sources</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(76).pdf" style="text-decoration:none;">Bayesian sparse reconstruction: a brute-force approach to astronomical imaging and machine learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(73).pdf" style="text-decoration:none;">1+1 Dimensional Compactifications of String Theory</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(74).pdf" style="text-decoration:none;">Supersymmetry Breaking in the Anthropic Landscape</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(75).pdf" style="text-decoration:none;">Naturalness and the Landscape</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(76).pdf" style="text-decoration:none;">Cosmic Natural Selection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(77).pdf" style="text-decoration:none;">Segmentation of coronal holes in solar disk images with a convolutional neural network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(77).pdf" style="text-decoration:none;">A Framework for the Landscape</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(78).pdf" style="text-decoration:none;">Graph Neural Networks for IceCube Signal Classification</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(79).pdf" style="text-decoration:none;">Galaxy morphology prediction using capsule networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(78).pdf" style="text-decoration:none;">Wormholes and Time Travel? Not Likely</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(79).pdf" style="text-decoration:none;">Rebuttal to a Paper on Wormholes</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(80).pdf" style="text-decoration:none;">TSARDI: a Machine Learning data rejection algorithm for transiting exoplanet light curves</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(80).pdf" style="text-decoration:none;">Observational Consequences of a Landscape</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(81).pdf" style="text-decoration:none;">DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(82).pdf" style="text-decoration:none;">Scalable Solutions for Automated Single Pulse Identification and Classification in Radio Astronomy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(81).pdf" style="text-decoration:none;">A Holographic Framework for Eternal Inflation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(82).pdf" style="text-decoration:none;">Susskind's Challenge to the
+Hartle-Hawking No-Boundary Proposal and Possible Resolutions</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(83).pdf" style="text-decoration:none;">Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(84).pdf" style="text-decoration:none;">Classifying Lensed Gravitational Waves in the Geometrical Optics Limit with Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(83).pdf" style="text-decoration:none;">Holographic Views of the World</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(84).pdf" style="text-decoration:none;">Information loss and anomalous scattering</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(85).pdf" style="text-decoration:none;">Deep multi-survey classification of variable stars</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(85).pdf" style="text-decoration:none;">String Theory and the Principle of Black Hole Complementarity</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(86).pdf" style="text-decoration:none;">Deblending galaxy superpositions with branched generative adversarial networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(87).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></li>
