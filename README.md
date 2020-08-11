@@ -1,3 +1,71 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Leonard Susskind</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-LeonardSusskindStanfordNov2013.jpg"><img src="220px-LeonardSusskindStanfordNov2013.jpg" srcset="220px-LeonardSusskindStanfordNov2013.jpg" alt="LeonardSusskindStanfordNov2013.jpg" width="220" height="185" data-file-width="1027" data-file-height="862" /></a>
+<div>Leonard Susskind</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>May&nbsp;1940 (age&nbsp;80)<br />
+<div class="birthplace"><a title="South Bronx" href="https://en.wikipedia.org/wiki/South_Bronx">South Bronx</a>,&nbsp;<a title="New York City" href="https://en.wikipedia.org/wiki/New_York_City">New York City</a>, US</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">United States</td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td class="category">United States</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="City College of New York" href="https://en.wikipedia.org/wiki/City_College_of_New_York">City College of New York</a><br /><a title="Cornell University" href="https://en.wikipedia.org/wiki/Cornell_University">Cornell University</a></td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="Holographic principle" href="https://en.wikipedia.org/wiki/Holographic_principle">Holographic principle</a><br /><a title="String theory" href="https://en.wikipedia.org/wiki/String_theory">String theory</a><br /><a title="Matrix theory (physics)" href="https://en.wikipedia.org/wiki/Matrix_theory_(physics)">Matrix theory (physics)</a><br /><a title="String theory landscape" href="https://en.wikipedia.org/wiki/String_theory_landscape">String theory landscape</a><br /><a title="Color confinement" href="https://en.wikipedia.org/wiki/Color_confinement">Color confinement</a><br /><a title="Hamiltonian lattice gauge theory" href="https://en.wikipedia.org/wiki/Hamiltonian_lattice_gauge_theory">Hamiltonian lattice gauge theory</a><br /><a title="RST model" href="https://en.wikipedia.org/wiki/RST_model">RST model</a><br /><a title="Susskind&ndash;Glogower operator" href="https://en.wikipedia.org/wiki/Susskind%E2%80%93Glogower_operator">Susskind&ndash;Glogower operator</a><br /><a title="Kogut&ndash;Susskind fermion" href="https://en.wikipedia.org/wiki/Kogut%E2%80%93Susskind_fermion">Kogut&ndash;Susskind fermions</a><br /><a title="Fischler&ndash;Susskind mechanism" href="https://en.wikipedia.org/wiki/Fischler%E2%80%93Susskind_mechanism">Fischler&ndash;Susskind mechanism</a><br /><a title="ER=EPR" href="https://en.wikipedia.org/wiki/ER%3DEPR">ER=EPR</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a title="Pomeranchuk Prize" href="https://en.wikipedia.org/wiki/Pomeranchuk_Prize">Pomeranchuk Prize</a>&nbsp;(2008)<br /><a class="new" title="American Institute of Physics' Science Writing Award (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=American_Institute_of_Physics%27_Science_Writing_Award&amp;action=edit&amp;redlink=1">American Institute of Physics' Science Writing Award</a><br /><a title="Sakurai Prize" href="https://en.wikipedia.org/wiki/Sakurai_Prize">Sakurai Prize</a>&nbsp;(1998)<br /><a class="new" title="Boris Pregel Award (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Boris_Pregel_Award&amp;action=edit&amp;redlink=1">Boris Pregel Award</a>,&nbsp;<a title="New York Academy of Sciences" href="https://en.wikipedia.org/wiki/New_York_Academy_of_Sciences">New York Academy of Sciences</a>&nbsp;(1975)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Physics" href="https://en.wikipedia.org/wiki/Physics">Physics</a>,&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="Yeshiva University" href="https://en.wikipedia.org/wiki/Yeshiva_University">Yeshiva University</a><br /><a title="Tel Aviv University" href="https://en.wikipedia.org/wiki/Tel_Aviv_University">Tel Aviv University</a><br /><a title="Stanford University" href="https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a><br /><a title="Stanford Institute for Theoretical Physics" href="https://en.wikipedia.org/wiki/Stanford_Institute_for_Theoretical_Physics">Stanford Institute for Theoretical Physics</a><br /><a title="Korea Institute for Advanced Study" href="https://en.wikipedia.org/wiki/Korea_Institute_for_Advanced_Study">Korea Institute for Advanced Study</a><br /><a title="Perimeter Institute for Theoretical Physics" href="https://en.wikipedia.org/wiki/Perimeter_Institute_for_Theoretical_Physics">Perimeter Institute for Theoretical Physics</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://search.proquest.com/docview/302316918" rel="nofollow"><em>Quantum mechanical approach to strong interactions</em></a>&nbsp;(1965)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Peter A. Carruthers" href="https://en.wikipedia.org/wiki/Peter_A._Carruthers">Peter A. Carruthers</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a title="Eduardo Fradkin" href="https://en.wikipedia.org/wiki/Eduardo_Fradkin">Eduardo Fradkin</a><br /><a title="Douglas Stanford" href="https://en.wikipedia.org/wiki/Douglas_Stanford">Douglas Stanford</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+</br>
+
 <h2> Publications </h2>
 
 <ul>
