@@ -171,37 +171,63 @@ Hartle-Hawking No-Boundary Proposal and Possible Resolutions</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(84).pdf" style="text-decoration:none;">Information loss and anomalous scattering</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(85).pdf" style="text-decoration:none;">String Theory and the Principle of Black Hole Complementarity</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(86).pdf" style="text-decoration:none;">Deblending galaxy superpositions with branched generative adversarial networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(86).pdf" style="text-decoration:none;">Strings, Black Holes and Lorentz Contraction</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(87).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(88).pdf" style="text-decoration:none;">Distinguishing standard and modified gravity cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(89).pdf" style="text-decoration:none;">A hybrid approach to machine learning annotation of large galaxy image databases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(87).pdf" style="text-decoration:none;">Some speculations about black hole entropy in string theory</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(88).pdf" style="text-decoration:none;">Comment On A Proposal By Strominger</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(89).pdf" style="text-decoration:none;">The World as a Hologram</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(90).pdf" style="text-decoration:none;">Towards a radially-resolved semi-analytic model for the evolution of disc galaxies tuned with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(91).pdf" style="text-decoration:none;">Scientific Domain Knowledge Improves Exoplanet Transit Classification with Deep Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(90).pdf" style="text-decoration:none;">Trouble For Remnants</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(91).pdf" style="text-decoration:none;">GRAVITY AND GLOBAL SYMMETRIES</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(92).pdf" style="text-decoration:none;">Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(93).pdf" style="text-decoration:none;"> Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(94).pdf" style="text-decoration:none;">Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(92).pdf" style="text-decoration:none;">Black Hole Complementarity vs. Locality</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(93).pdf" style="text-decoration:none;"> Particle Growth and BPS Saturated States</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(94).pdf" style="text-decoration:none;">String Physics and Black Holes</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(95).pdf" style="text-decoration:none;">D-branes and Fat Black Holes</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(96).pdf" style="text-decoration:none;">T Duality in M(atrix) Theory and S Duality in field theory</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(97).pdf" style="text-decoration:none;">Reduced-order modeling with artificial neurons for gravitational-wave inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(97).pdf" style="text-decoration:none;">Rotational Invariance in the M(atrix) Formulation of Type IIB Theory</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(98).pdf" style="text-decoration:none;">Another Conjecture about M(atrix) Theory</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(99).pdf" style="text-decoration:none;">Machine-learning Approaches to Exoplanet Transit Detection and Candidate Validation in Wide-field Ground-based Surveys</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(99).pdf" style="text-decoration:none;">Finite N Heterotic Matrix Models and Discrete Light Cone Quantiztion</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(100).pdf" style="text-decoration:none;">Classification of Multiwavelength Transients with Machine Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(100).pdf" style="text-decoration:none;">Schwarzschild Black Holes in Various Dimensions from Matrix Theory</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(101).pdf" style="text-decoration:none;">Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(101).pdf" style="text-decoration:none;">A note on discrete light cone quantization</a></li> 
   
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(102).pdf" style="text-decoration:none;">Review of Matrix Theory</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(103).pdf" style="text-decoration:none;">The Holographic Bound in Anti-de Sitter Space</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(104).pdf" style="text-decoration:none;">Matrix Theory Black Holes and the Gross Witten Transition</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(105).pdf" style="text-decoration:none;">Large N and the Dine-Rajaraman problem</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(106).pdf" style="text-decoration:none;">Holography in the Flat Space Limit</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(107).pdf" style="text-decoration:none;">Puzzles and Paradoxes About Holography</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(108).pdf" style="text-decoration:none;">Negative Energy, Superluminosity and Holography </a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(109).pdf" style="text-decoration:none;">Magnetic fields, branes and
+noncommutative geometry</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonard-Susskind-Publications/blob/master/lsu(110).pdf" style="text-decoration:none;">Wilson loops as Precursors</a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
  
  
  </ul>
